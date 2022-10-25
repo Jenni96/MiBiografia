@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(231, 177, 245);
+    color: rgb(212, 17, 99);
+    text-align: justify;
+    
+}
+#imgPerfil{
+    border-radius: 80px;
+    border: solid 10px;
+    border-color: rgb(175, 116, 231);
+}
+
+h1{
+    font-size: 220%;
+}
+
+.Nombre{
+    font-style: oblique;
+}
+.titulos{
+    font-size: 150%;
+    font-style: italic;
+}
+
+#imagen{
+    text-align: center;
+}
+
+#JO{
+    text-align: center;
+}
+}
